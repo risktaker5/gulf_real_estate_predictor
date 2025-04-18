@@ -1,0 +1,1 @@
+ print("Dataset generated and saved to 'synthetic_real_estate_data.csv'")
